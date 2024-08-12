@@ -5,7 +5,8 @@
 
 Welcome to **QRX**, the next-generation attendance management system designed for universities and colleges. Say goodbye to outdated manual registers and embrace the future with QRX!
 
-![image](https://github.com/user-attachments/assets/322c09ee-912b-4539-93e5-10ed8d57772b)
+![image](https://github.com/user-attachments/assets/90aafcf2-4e01-4ab5-94a4-e23567cd98e5)
+
 
 
 ## Overview
