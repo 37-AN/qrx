@@ -1,10 +1,12 @@
-Sure! Here's the README formatted in GitHub markdown:
 
 ---
 
 # QRX - QR-Code Attendance Register
 
 Welcome to **QRX**, the next-generation attendance management system designed for universities and colleges. Say goodbye to outdated manual registers and embrace the future with QRX!
+
+![image](https://github.com/user-attachments/assets/322c09ee-912b-4539-93e5-10ed8d57772b)
+
 
 ## Overview
 
@@ -48,5 +50,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 QRX is designed to bring efficiency and innovation to attendance management. Stay tuned for our AI-powered features that will take your experience to the next level!
 
 ---
-
-This is a ready-to-use GitHub README for your project. If you have any more requests, feel free to ask!
